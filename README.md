@@ -1,7 +1,29 @@
-# Introduction
-Hi, my name is Roshni Singh.
-Below are some projects I did under Girls Who Code (GWC), where I built multipage websites using HTML, CSS, and JavaScript.
+# Activist Toolkit Project
 
-# Projects
-They consist of personality quizzes inspired by works of Buzzfeed and activist websites inspired by organizations like The Trevor Project, Change of Color, Black Lives Matter, and many more. 
+Using languages HTML, CSS, and Javascript, I created an interactive interface, where users can interact with the program through a carousel slideshow and media queries. 
+
+---
+
+## File Overview
+
+### ← README.md
+
+Overview of the Website
+
+### ← index.html
+
+HTML files are for the content of this website.
+
+### ← style.css
+
+CSS files are here to add styling rules to content like change in color or font.
+
+### ← script.js
+
+JavaScript files are here to add interactivity to the website to listen for events and take an action.
+
+### ← assets
+
+This folder is for the visual aids used in this project.
+
 
