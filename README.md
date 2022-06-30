@@ -1,14 +1,5 @@
-## Activist Toolkit Project
+## Hi, my name is Roshni Singh.
 
-### Objectives
-Project relays cause in community
-Provide an interactive userface eg. fact generator, call script, or media query 
-  (carousel and media query used in this project)
+Below are some projects I did under Girls Who Code (GWC) where I built multipage websites using HTML, CSS, and JavaScript.
+They consist of personality quizzes inspired by works of Buzzfeed and activist websites inspired by organizations like The Trevor Project, Change of Color, Black Lives Matter, and many more. 
 
-### Project Requirements
-
-Build a multipage website using HTML, CSS, and JavaScript.
-Implement at least one of the key features from the menu.
-Customize the look and feel of your site through colors, images, and fonts using CSS.
-Include alt text for every image in your website.
-Use code comments to describe your code.
