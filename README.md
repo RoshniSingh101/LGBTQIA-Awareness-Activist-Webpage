@@ -1,4 +1,5 @@
-# Hi, my name is Roshni Singh.
+# Introduction
+Hi, my name is Roshni Singh.
 Below are some projects I did under Girls Who Code (GWC) where I built multipage websites using HTML, CSS, and JavaScript.
 
 # Projects
