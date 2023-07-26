@@ -1,29 +1,24 @@
-# Activist Toolkit Project
+Coding Experience:
 
-Using languages HTML, CSS, and Javascript, I created an interactive interface, where users can interact with the program through a carousel slideshow and media queries. 
+Girls Who Code (Python, HTML, CSS, JavaScript)
+AP Computer Science A (Java)
 
----
+Data Science:
+-Data Activist Project on Gender Pay Gap using boxplot data visualizations
+-Rotten Tomatoes Data Visualizations Comparing Action Movies using histograms & scatterplots comparing critic and audience ratings
 
-## File Overview
+Cybersecurity & Cryptography:
+-CyHelp, chatbot that educates users on CIA Triad
+-chatbot that educates users on Facebook Breach 2019 and how to protect their data
+-three chatbots encrypting, decrypting, and cracking Caesar's Cipher
 
-### ← README.md
+Java - AP Computer Science A
+-Wordle
+-GUI (Apple Home Screen)
 
-Overview of the Website
+HTML, CSS, JavaScript - Girls Who Code
+-Mental Health Awareness Website
+-Buzzfeed Inspired Personality Quiz
+-Activist Webpage for LGBTQIA+ Community
 
-### ← index.html
-
-HTML files are for the content of this website.
-
-### ← style.css
-
-CSS files are here to add styling rules to content like change in color or font.
-
-### ← script.js
-
-JavaScript files are here to add interactivity to the website to listen for events and take an action.
-
-### ← assets
-
-This folder is for the visual aids used in this project.
-
-
+JP Morgan Virtual Software Experience
