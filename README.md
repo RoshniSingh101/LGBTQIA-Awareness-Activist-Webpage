@@ -4,7 +4,7 @@ Girls Who Code (Python, HTML, CSS, JavaScript)
 AP Computer Science A (Java)
 
 Data Science:
-Data Activist Project on Gender Pay Gap using boxplot data visualizations
+##Data Activist Project on Gender Pay Gap using boxplot data visualizations
 Rotten Tomatoes Data Visualizations Comparing Action Movies using histograms & scatterplots comparing critic and audience ratings
 
 Cybersecurity & Cryptography:
