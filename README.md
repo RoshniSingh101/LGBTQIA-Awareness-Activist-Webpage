@@ -1,6 +1,4 @@
-# Activist Toolkit Sample Project
-
-This is an example of a completed Activist Toolkit website that includes all Key Features.
+# Activist Toolkit Project
 
 
 ### Project Requirements
